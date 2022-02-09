@@ -5,5 +5,3 @@ for key,value in a.items():
     print(key ,end=" ")
     print(value)
 print("A")
-
-print("A")
